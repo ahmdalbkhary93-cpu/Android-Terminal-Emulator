@@ -1,5 +1,5 @@
 # Terminal Emulator for Android
-
+mak
 *Note:* Terminal Emulator for Android development has ended. I am not
 accepting pull requests any more.
 
